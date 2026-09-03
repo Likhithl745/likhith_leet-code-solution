@@ -1,2 +1,6 @@
-# likhith_leet-code-solution
-likhith_leet code solution
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        
+    }
+}
+
